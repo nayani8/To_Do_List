@@ -2,7 +2,7 @@
 
 A simple, beginner-friendly To-Do List web app built using **HTML, CSS, and JavaScript** — no frameworks, no libraries, just the basics done cleanly.
 
-![To-Do List Preview](preview.png)
+![To-Do List Preview](preview.jpeg)
 
 ## ✨ Features
 
